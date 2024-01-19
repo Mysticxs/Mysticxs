@@ -1,4 +1,4 @@
-html css javascript python
+html css javascript
 discord: mysticxs
 <!---
 Mysticxs/Mysticxs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
